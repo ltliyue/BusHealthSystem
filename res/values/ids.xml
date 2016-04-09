@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="btn_left" type="id"/>
+    <item name="btn_right" type="id"/>
+    <item name="bar_title" type="id"/>
+    <item name="loading_view" type="id"/>
+    
+    <item name="selected_view" type="id"/>
+</resources>
